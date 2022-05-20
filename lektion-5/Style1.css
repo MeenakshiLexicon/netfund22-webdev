@@ -1,0 +1,85 @@
+#topmenu
+{
+    background-color: rgb(0, 255, 238);
+  
+    display: flex;
+    justify-content: space-between;
+    font-size: small;
+    align-items: center;
+  
+    
+}
+.container
+h1
+{
+  width: 40%;
+  font-size:x-small;
+  color:aliceblue;
+  text-align: center;
+}
+.menu 
+{
+  width:40%
+ 
+}
+.menu 
+a{
+  text-decoration: none;
+  color:aliceblue;
+}
+
+    
+.brand 
+{
+ width: 40%;
+}
+.brand i{
+  color: aliceblue;
+  margin-left: 1rem;
+}
+
+
+.icon {
+  text-align: end;
+  width: 80%;
+  padding: 21px;
+}
+.icon i
+{
+  margin-left:1rem;
+}
+.heading
+{
+  background-color: rgb(233, 231, 231);
+  font-family:Arial, Helvetica, sans-serif;
+  padding: 30px;
+ 
+  
+}
+h1
+{
+ 
+  color:black;
+  font-size:x-large
+  
+}
+h2
+{
+  color: aquamarine;
+  
+  font-size:x-large
+}
+h3
+{
+  color: black;
+  font-size: medium;
+
+}
+
+.button
+{
+  background-color: aliceblue;
+  color: aquamarine;
+  border:none;
+ 
+}
