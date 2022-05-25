@@ -1,0 +1,159 @@
+/*--------Header ---------*/
+.topmenu
+{
+    background-color: rgb(22, 222, 222);
+    color: #fff;
+    padding: 2px;
+    font-size: x-small;
+  
+    
+}
+
+.topmenu .container
+{  display: flex;
+    justify-content: space-around;
+  
+     }
+  
+     
+
+.topmenu .site_settings ul
+{   list-style: none;
+    display: flex;
+    margin-bottom: 0%;
+    padding:1px;
+    
+  
+}
+.topmenu .site_settings ul>li 
+{   
+    margin-left: 1rem;
+   
+}
+ 
+
+
+
+.topmenu .brand i{
+  color: aliceblue;
+  
+  margin-left: 1rem;
+  text-align: end;
+}
+     /*---------Main---------- */
+
+     .menu{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+
+.menu .container
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+   
+    .searchbox
+   {
+       
+    width: 400px;
+       position: relative;
+     
+       
+      
+   }
+ .searchbox input
+{   position: absolute;
+    top:0;
+    left:0;
+    border: 1px solid #e3e3e3
+    height:100%;
+    width: 100%;
+    border-radius:25px;
+    padding-left: 20px;
+   
+    
+}
+.searchbox-icon i
+{
+ position: absolute;
+ top:0;
+ right:0;
+background-color:#20d3c2;
+color:rgb(14, 13, 13);
+height: 30px;
+width: 40px;
+line-height: 35px;
+font-size: 1em;
+text-align: center;
+border-radius:0 25px 25px 0;
+}
+
+.user_settings ul
+   {
+       list-style:none;
+       display: flex;
+       font-size: x-small;
+       padding: 0%;
+       margin: 0%;
+       
+    
+   }
+   .user_settings ul>li
+   {
+    margin-left:16px;
+    margin-right:16px;
+
+   }
+               /*----footer.....*/
+  
+ .footer .container
+{
+    background-color: rgb(215, 213, 211);
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+  
+ }
+   .footer .last-menu
+{
+    text-align: center;
+  
+}
+
+.footer .last-menu h1
+{
+font-size:xx-large;
+
+}
+.last-menu h2
+{
+    color:#20d3c2;
+    font-size: xx-large;
+}
+.last-menu h3
+{
+    font-size:medium;
+
+    
+}
+
+
+.button
+{
+  background-color: aliceblue;
+  color: aquamarine;
+  border:none;
+  border-radius: 25px;
+ 
+ 
+}
+.pics img {
+   width:60%;
+   height:100%;
+
+    
+}
