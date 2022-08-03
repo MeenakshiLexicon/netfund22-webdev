@@ -1,0 +1,5 @@
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise-4\Exercise-4\obj\Debug\net6.0\Exercise-4.csproj.AssemblyReference.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise-4\Exercise-4\obj\Debug\net6.0\Exercise-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise-4\Exercise-4\obj\Debug\net6.0\Exercise-4.AssemblyInfoInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise-4\Exercise-4\obj\Debug\net6.0\Exercise-4.AssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise-4\Exercise-4\obj\Debug\net6.0\Exercise-4.csproj.CoreCompileInputs.cache

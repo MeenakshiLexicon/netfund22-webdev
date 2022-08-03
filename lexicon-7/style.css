@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+    padding: 10px 50px;
+    background-color: blanchedalmond;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:50vh;
+ 
+}
+
+
+.formdesign
+{
+    font-size:21px;
+  
+}
+.formdesign input{
+    padding:12px 20px;
+}
+.formerror
+{
+    color:red
+}
+.button
+{
+    width:120px;
+    font-size: 25px;
+    
+}

@@ -1,0 +1,15 @@
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\bin\Debug\net6.0\introduction.exe
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\bin\Debug\net6.0\introduction.deps.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\bin\Debug\net6.0\introduction.runtimeconfig.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\bin\Debug\net6.0\introduction.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\bin\Debug\net6.0\introduction.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\introduction.csproj.AssemblyReference.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\introduction.AssemblyInfoInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\introduction.AssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\introduction.csproj.CoreCompileInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\introduction.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\refint\introduction.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\introduction.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\introduction.genruntimeconfig.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Mysolution\introduction\obj\Debug\net6.0\ref\introduction.dll

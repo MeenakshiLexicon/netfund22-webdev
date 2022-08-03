@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&family=Roboto:wght@400;500;700&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+   
+    
+    
+    body
+{
+    background-color: blanchedalmond;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:50vh;
+ 
+}
+.container 
+{
+background-color: rgb(207, 207, 228);
+    color: rgb(13, 16, 16);
+text-align: center;
+font-size:larger;
+padding: 10px;
+margin: 10px;
+}
+h1{
+    background-color: rgb(19, 18, 23);
+    color: #fff;
+}
+.form-control
+{
+    position: relative;
+}
+.form-control label
+{   display: inline-block;
+    margin-bottom: 5px;
+
+}
+.form-control input{
+    width:100%;
+    border:2px solid;
+    border-radius: 5px;
+   
+    font-family: 14px;
+    padding: 12px;
+}
+/*
+.form-control input:focus
+{
+    outline:0;
+    border-color:rgb(33, 7, 151)
+}
+.form-control.success input{
+    border-color: #2ecc71;
+}
+
+.form-control.error input{
+    border-color: #e74c3c;
+}
+
+.form-control small{
+    visibility: hidden;
+}
+.form-control i{
+    position: absolute;
+    right:12%;
+    top:38px;
+    visibility: hidden;
+}*/
+.form .btn
+{
+   
+   display: block;
+    border:none;
+    outline:none;
+    background-color: rgb(29, 72, 72);
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: all is ease;
+    width:100%;
+    margin-top: 20px;
+    padding: 15px;
+    color: #fff;
+}
+.form.btn:hover
+{
+    background-color: rgb(207, 207, 228);
+}
