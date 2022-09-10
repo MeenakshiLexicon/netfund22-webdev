@@ -1,0 +1,1 @@
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lexicon-001\BlazorApp1\obj\Release\net6.0\browser-wasm\PubTmp\Out\web.config

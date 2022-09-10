@@ -1,0 +1,23 @@
+﻿@using BlazorApp.Models
+
+<div class="col">
+    <div class="card h-100">
+        <div class="card-body">
+            <h5 class="card-title">@Title</h5>
+            <p class="card-text">
+                @foreach (var activity in Content)
+                {
+                    <div>@activity.Created - @activity.Message</div>
+                }
+            </p>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Title { get; set; }
+
+    [Parameter]
+    public List<Activity> Content { get; set; }
+}

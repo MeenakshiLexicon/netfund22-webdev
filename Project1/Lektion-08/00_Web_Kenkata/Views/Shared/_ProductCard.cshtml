@@ -1,0 +1,56 @@
+﻿@model ProductCardModel
+
+<div class="col">
+    <div class="card h-100">
+        <ul class="card-menu">
+            @if (Model.InStock)
+            {
+                <li><i class="fa-solid fa-circle instock"></i></li>
+            }
+            else
+            {
+                <li><i class="fa-solid fa-circle outofstock"></i></li>
+            }
+            <li><a href="#"><i class="fa-regular fa-heart"></i></a></li>
+            <li><a href="#"><i class="fa-regular fa-shuffle"></i></a></li>
+            <li><a href="#"><i class="fa-regular fa-magnifying-glass"></i></a></li>
+            <li><a href="#"><i class="fa-regular fa-cart-shopping"></i></a></li>
+        </ul>
+        <img src="images/products/@Model.ImageName" alt="@Model.ProductName">
+        <div class="card-body">
+            <h1>@Model.ProductName</h1>
+            <button disabled>@Model.CategoryName</button>
+            <p class="card-old-price">€@Model.OriginalPrice</p>
+            <div class="d-flex justify-content-between align-items-center w-100 ">
+                <p class="card-discount-price ">€@Model.DiscountPrice</p>
+                <div class="text-theme">
+                    @if (Model.Rating > 0)
+                    {
+                        for (var i = 0; i < Model.Rating; i++)
+                        {
+                            <i class="fa-solid fa-star"></i>
+                        }
+                        if (Model.Rating < 5)
+                        {
+                            var result = 5 - Model.Rating;
+                            for (var i = 0; i < result; i++)
+                            {
+                                <i class="fa-regular fa-star"></i>
+                            }
+                        }
+
+                    }
+                    else
+                    {
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                        <i class="fa-regular fa-star"></i>
+                    }
+                </div>
+            </div>
+        </div>
+        <div class="card-background"></div>
+    </div>
+</div>  

@@ -1,0 +1,26 @@
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\bin\Debug\net6.0\appsettings.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\bin\Debug\net6.0\MEENAKSHI FIRST PROJECT.staticwebassets.runtime.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\bin\Debug\net6.0\MEENAKSHI FIRST PROJECT.exe
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\bin\Debug\net6.0\MEENAKSHI FIRST PROJECT.deps.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\bin\Debug\net6.0\MEENAKSHI FIRST PROJECT.runtimeconfig.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\bin\Debug\net6.0\MEENAKSHI FIRST PROJECT.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\bin\Debug\net6.0\MEENAKSHI FIRST PROJECT.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.csproj.AssemblyReference.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.AssemblyInfoInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.AssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.RazorAssemblyInfo.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.RazorAssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\scopedcss\bundle\MEENAKSHI FIRST PROJECT.styles.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\scopedcss\projectbundle\MEENAKSHI FIRST PROJECT.bundle.scp.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\refint\MEENAKSHI FIRST PROJECT.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\MEENAKSHI FIRST PROJECT.genruntimeconfig.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\MEENAKSHI FIRST PROJECT\obj\Debug\net6.0\ref\MEENAKSHI FIRST PROJECT.dll

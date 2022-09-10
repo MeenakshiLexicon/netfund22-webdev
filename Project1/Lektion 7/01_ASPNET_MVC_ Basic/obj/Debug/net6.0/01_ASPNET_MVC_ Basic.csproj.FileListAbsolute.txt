@@ -1,0 +1,26 @@
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\bin\Debug\net6.0\appsettings.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\bin\Debug\net6.0\01_ASPNET_MVC_ Basic.staticwebassets.runtime.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\bin\Debug\net6.0\01_ASPNET_MVC_ Basic.exe
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\bin\Debug\net6.0\01_ASPNET_MVC_ Basic.deps.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\bin\Debug\net6.0\01_ASPNET_MVC_ Basic.runtimeconfig.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\bin\Debug\net6.0\01_ASPNET_MVC_ Basic.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\bin\Debug\net6.0\01_ASPNET_MVC_ Basic.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.csproj.AssemblyReference.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.AssemblyInfoInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.AssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.csproj.CoreCompileInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.RazorAssemblyInfo.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.RazorAssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\scopedcss\bundle\01_ASPNET_MVC_ Basic.styles.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\scopedcss\projectbundle\01_ASPNET_MVC_ Basic.bundle.scp.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\refint\01_ASPNET_MVC_ Basic.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\01_ASPNET_MVC_ Basic.genruntimeconfig.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\01_ASPNET_MVC_ Basic\obj\Debug\net6.0\ref\01_ASPNET_MVC_ Basic.dll

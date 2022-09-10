@@ -1,0 +1,261 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap');
+
+
+.topmenu {
+    background-color: rgb(22, 222, 222);
+    color: #fff;
+    padding: 2px;
+    font-size: x-small;
+}
+
+    .topmenu .container {
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+
+    .topmenu .site_settings ul {
+        list-style: none;
+        display: flex;
+        margin-bottom: 0%;
+        padding: 1px;
+    }
+
+        .topmenu .site_settings ul > li {
+            margin-left: 1rem;
+        }
+
+
+
+
+    .topmenu .brand i {
+        color: aliceblue;
+        margin-left: 1rem;
+        text-align: end;
+    }
+
+.menu {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+
+
+    .menu .container {
+        display: flex;
+        justify-content: space-between;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+
+
+.searchbox {
+    width: 400px;
+    position: relative;
+}
+
+    .searchbox input {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border: 1px solid #e3e3e3 height:100%;
+        width: 100%;
+        border-radius: 25px;
+        padding-left: 20px;
+    }
+
+.searchbox-icon i {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #20d3c2;
+    color: rgb(14, 13, 13);
+    height: 30px;
+    width: 40px;
+    line-height: 35px;
+    font-size: 1em;
+    text-align: center;
+    border-radius: 0 25px 25px 0;
+}
+
+.user_settings a {
+    list-style: none;
+   font-size: x-small;
+    padding: 0%;
+    margin: 0%;
+}
+.user_settings i {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+   .user_settings a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu1.site_settings1 {
+    margin: 21px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.site_settings1 ul {
+    list-style: none;
+}
+
+.container .user_settings i {
+    font-size: 0.8rem;
+    position: relative;
+    justify-content:space-between;
+  
+}
+
+
+
+.user_settings i > span {
+    font-size: 0.4rem;
+    position: absolute;
+}
+
+.menu1 {
+    margin-top: 21px;
+    margin-bottom: 21px;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+
+.btn-menu {
+    background-color: #0db4ce;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+    .btn-menu i {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1rem;
+    }
+
+
+
+.btn-menu1 button {
+    border-radius: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: #0fcaef;
+    border: none;
+    outline: none;
+  
+}
+
+/*----main.....*/
+
+.main .container {
+    background-color: rgb(215, 213, 211);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+}
+
+.main .container {
+    text-align: center;
+    width: 500vh;
+    padding: 0%;
+    margin: 0%;
+}
+
+.main .menu1 h1 {
+    font-size: xx-large;
+}
+
+.main .menu1 h2 {
+    color: #20d3c2;
+    font-size: xx-large;
+}
+
+.main .menu1 h3 {
+    font-size: medium;
+}
+
+
+.button {
+    background-color: aliceblue;
+    color: aquamarine;
+    border: none;
+    border-radius: 25px;
+}
+
+.pics img {
+    width: 60%;
+    height: 100%;
+}
+
+.items {
+    display: flex;
+    justify-content: space-around;
+    margin: 3rem;
+    padding-left: 21px;
+    padding-right: 21px;
+}
+
+    .items .btn-menu1 {
+        background-color: rgb(190, 230, 230);
+        margin-top: 21px;
+        color: #20d3c2;
+        border: none;
+    }
+
+.btn-menu1 p {
+    color: rgb(11, 11, 11);
+    font-size: xx-small;
+    text-align: center;
+}
+
+.items .btn-menu2 {
+    background-color: rgb(52, 150, 150);
+    margin-top: 21px;
+    color: #1a5f58;
+    border: none;
+}
+
+.btn-menu2 p {
+    color: rgb(11, 11, 11);
+    font-size: xx-small;
+    text-align: center;
+}
+
+.items .btn-menu3 {
+    background-color: rgb(190, 230, 230);
+    margin-top: 21px;
+    color: #20d3c2;
+    border: none;
+}
+
+.btn-menu3 p {
+    color: rgb(11, 11, 11);
+    font-size: xx-small;
+    text-align: center;
+}
+
+.items .btn-menu4 {
+    background-color: rgb(190, 230, 230);
+    margin-top: 21px;
+    color: #20d3c2;
+    border: none;
+}
+
+.btn-menu4 p {
+    color: rgb(11, 11, 11);
+    font-size: xx-small;
+    text-align: center;
+}
+
+.category {
+    text-align: center;
+    display: flex;
+}

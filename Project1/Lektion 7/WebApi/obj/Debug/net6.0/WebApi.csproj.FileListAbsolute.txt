@@ -1,0 +1,7 @@
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion 7\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,26 @@
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\bin\Debug\net6.0\appsettings.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\bin\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.staticwebassets.runtime.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\bin\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.exe
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\bin\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.deps.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\bin\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.runtimeconfig.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\bin\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\bin\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.csproj.AssemblyReference.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.AssemblyInfoInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.AssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.csproj.CoreCompileInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.RazorAssemblyInfo.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.RazorAssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\scopedcss\bundle\03_ASPNET_MVC_Partial _Views_And_Views.styles.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\scopedcss\projectbundle\03_ASPNET_MVC_Partial _Views_And_Views.bundle.scp.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\refint\03_ASPNET_MVC_Partial _Views_And_Views.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\03_ASPNET_MVC_Partial _Views_And_Views.genruntimeconfig.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Lektion-7\03_ASPNET_MVC_Partial _Views_And_Views\obj\Debug\net6.0\ref\03_ASPNET_MVC_Partial _Views_And_Views.dll

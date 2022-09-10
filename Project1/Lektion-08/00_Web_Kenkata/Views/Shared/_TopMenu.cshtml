@@ -1,0 +1,39 @@
+﻿<div class="top-menu">
+    <div class="container">
+        <div class="site-settings">
+            <div class="dropdown dropdown-theme me-3">
+                <button type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <span id="selected-language">ENG</span><i class="fa-solid fa-chevron-down ms-3"></i>
+                </button>
+                <ul id="languages" class="dropdown-menu dropdown-theme">
+                    <li><a class="dropdown-item" asp-controller="Settings" asp-action="Language" asp-route-currency="ENG">ENG</a></li>
+                    <li><a class="dropdown-item" asp-controller="Settings" asp-action="Language" asp-route-currency="SWE">SWE</a></li>
+                </ul>
+            </div>
+            <div class="dropdown dropdown-theme me-3">
+                <button type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <span id="selected-currency">EUR</span><i class="fa-solid fa-chevron-down ms-3"></i>
+                </button>
+                <ul id="currencies" class="dropdown-menu dropdown-theme">
+                    <li><a class="dropdown-item" asp-controller="Settings" asp-action="Currency" asp-route-currency="EUR">EUR</a></li>
+                    <li><a class="dropdown-item" asp-controller="Settings" asp-action="Currency" asp-route-currency="USD">USD</a></li>
+                    <li><a class="dropdown-item" asp-controller="Settings" asp-action="Currency" asp-route-currency="SEK">SEK</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="menu-links">
+            <span class="links">
+                <a asp-controller="About" asp-action="Newsletter">Newsletter</a>
+                <a asp-controller="About" asp-action="Contact">Contact us</a>
+                <a asp-controller="About" asp-action="FAQ">FAQs</a>
+            </span>
+            <span class="social-media">
+                <a href="https://facebook.com"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="https://twitter.com"><i class="fa-brands fa-twitter"></i></a>
+                <a href="https://instagram.com"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://pinterest.com"><i class="fa-brands fa-pinterest-p"></i></a>
+                <a href="https://youtube.com"><i class="fa-brands fa-youtube"></i></a>
+            </span>
+        </div>
+    </div>
+</div>

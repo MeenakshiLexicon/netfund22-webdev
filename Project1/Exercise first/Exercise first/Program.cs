@@ -9,7 +9,7 @@ void ShowMenu()
     do
     {
         Console.Clear();
-        Console.WriteLine("1.Add Customer Name");
+        Console.WriteLine("1.Add Customer's Name");
         Console.WriteLine("2.Show List");
         Console.WriteLine("3.Delete List");
         Console.WriteLine("4.Exit");

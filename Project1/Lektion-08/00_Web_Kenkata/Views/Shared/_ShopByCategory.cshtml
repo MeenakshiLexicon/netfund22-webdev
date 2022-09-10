@@ -1,0 +1,21 @@
+﻿@model ShopByCategorySectionModel
+
+<section class="_ShopByCategory">
+    <div class="container">
+        <partial name="_SectionTitle" model="Model.SectionTitle" />
+
+        <div class="grid">
+
+            @for (var i = 0; i < 7; i++)
+            {
+                <a href="#" id="category-box-@(i+1)" class="category-box">
+                    <div class="category-box-title">
+                        @Model.Categories[i].CategoryName
+                        <span>@Model.Categories[i].AmountOfProducts products</span>
+                    </div>
+                </a>
+            }
+
+        </div>
+    </div>
+</section>

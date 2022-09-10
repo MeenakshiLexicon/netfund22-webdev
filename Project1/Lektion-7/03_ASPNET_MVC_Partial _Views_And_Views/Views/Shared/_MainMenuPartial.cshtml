@@ -1,0 +1,18 @@
+﻿<nav class="main_menu">
+    <div class="container">
+        <div class="dropdown">
+            <button class="btn-menu btn-theme" type="button" id="main_menu" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fa-regular fa-bars me-2"></i>
+                Browse Categories
+                <i class="fa-regular fa-chevron-down ms-4"></i>
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="main_menu">
+                <li><a class="dropdown-item" asp-controller="Products" asp-action="Category">Computers</a></li>
+                <li><a class="dropdown-item" asp-controller="Products" asp-action="Category">TV & Displays</a></li>
+                <li><a class="dropdown-item" asp-controller="Products" asp-action="Category">Home Electronics</a></li>
+                <li><a class="dropdown-item" asp-controller="Products" asp-action="Category">Outdoor</a></li>
+            </ul>
+        </div>
+        <button class="btn btn-theme btn-special-offer" asp-controller="Products" asp-action="SpecialOffer">SPECIAL OFFER</button>
+    </div>
+</nav>

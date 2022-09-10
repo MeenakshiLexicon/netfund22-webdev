@@ -1,0 +1,27 @@
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\appsettings.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\Exercise 5.exe
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\Exercise 5.deps.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\Exercise 5.runtimeconfig.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\Exercise 5.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\Exercise 5.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.csproj.AssemblyReference.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.AssemblyInfoInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.AssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.csproj.CoreCompileInputs.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\scopedcss\bundle\Exercise 5.styles.css
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.csproj.CopyComplete
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\refint\Exercise 5.dll
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.pdb
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\Exercise 5.genruntimeconfig.cache
+C:\Users\Meenakshi\OneDrive\Desktop\GitHub\netfund22-webdev\Project1\Exercise 5\obj\Debug\net6.0\ref\Exercise 5.dll

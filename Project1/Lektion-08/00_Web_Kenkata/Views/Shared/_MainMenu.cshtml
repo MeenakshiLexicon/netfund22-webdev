@@ -1,0 +1,40 @@
+﻿
+<div class="main-menu">
+    <div class="container">
+        <div class="brand">
+            <a href="index.html"><img src="images/logotype.svg" alt="Kenkata Webshop"></a>
+        </div>
+        <div class="search"></div>
+        <div class="menu-links">
+            <a class="menu-link" asp-controller="Account" asp-action="Index"><i class="fa-regular fa-user me-2"></i> My account</a>
+            <a class="menu-link" asp-controller="WishList" asp-action="Index"><i class="fa-regular fa-heart"></i></a>
+            <a class="menu-link" asp-controller="Compare" asp-action="Index"><i class="fa-regular fa-shuffle"></i></a>
+            <a id="cart" class="menu-link" asp-controller="Cart" asp-action="Index">
+                <span class="badge rounded-pill">99+</span>
+                <i class="fa-regular fa-cart-shopping me-2"></i>
+                <span>€9999.00</span>
+            </a>
+        </div>
+    </div>
+    <nav>
+        <div class="container">
+            <div class="browse-categories">
+                <div class="dropdown">
+                    <button type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <span>
+                            <i class="fa-regular fa-bars me-3"></i> Browse Categories
+                        </span>
+                        <i class="fa-regular fa-chevron-down ms-4"></i>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" asp-controller="Products" asp-action="Index" asp-route-category="Computers">Computers</a></li>
+                        <li><a class="dropdown-item" asp-controller="Products" asp-action="Index" asp-route-category="TV-Displays">TV & Displays</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="special-offer">
+                <a asp-controller="Products" asp-action="SpecialOffer" class="btn btn-theme">SPECIAL OFFER</a>
+            </div>
+        </div>
+    </nav>
+</div>

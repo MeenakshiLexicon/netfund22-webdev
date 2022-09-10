@@ -1,0 +1,34 @@
+﻿@page "/activities"
+@using BlazorApp.Models
+
+<PageTitle>Activities | BlazorApp</PageTitle>
+<TitleSection Title="Activities" Ingress="Overview of all your activities" />
+
+
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+        <Card Title="Latest Activities" Content="_activities" />
+        <Card Title="Latest Warnings" Content="_warnings" />
+    </div>
+</div>
+
+
+
+@code {
+    public List<Activity> _activities = new()
+    {
+        new Activity { Id = Guid.NewGuid(), Created = DateTime.Now, Message = "New device added." },
+        new Activity { Id = Guid.NewGuid(), Created = DateTime.Now, Message = "Device removed." },
+        new Activity { Id = Guid.NewGuid(), Created = DateTime.Now, Message = "Device updated." },
+        new Activity { Id = Guid.NewGuid(), Created = DateTime.Now, Message = "New device added." }
+    };
+
+    public List<Activity> _warnings = new()
+    {
+        new Activity { Id = Guid.NewGuid(), Created = DateTime.Now, Message = "Temperature is to High." },
+        new Activity { Id = Guid.NewGuid(), Created = DateTime.Now, Message = "Temperature is to High." },
+        new Activity { Id = Guid.NewGuid(), Created = DateTime.Now, Message = "Fan not responding." },
+        new Activity { Id = Guid.NewGuid(), Created = DateTime.Now, Message = "Temperature is to High." }
+    };
+
+}
